@@ -1,0 +1,1 @@
+data=read.table("C:/Users/ruby0/Desktop/class.csv",sep=",",header=T)
